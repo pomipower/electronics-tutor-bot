@@ -1,0 +1,9 @@
+[faq (matched 'what is a diode')] You: what is a diode
+Bot: A diode is a component that allows current to flow in only one direction. It's used for rectification and protection.
+
+[faq (matched 'what is a diode')] You: what is a clipper?
+Bot: A diode is a component that allows current to flow in only one direction. It's used for rectification and protection.
+
+[llm] You: clipper clamper circuits
+Bot: clipper clamper circuits are a very popular component of the circuit board. They are made from aluminum and have long, flat, solid, and highly flexible sides. They are capable of driving all sorts of motors, including a 3D printed circuit board, and are available in all shapes and sizes.
+
